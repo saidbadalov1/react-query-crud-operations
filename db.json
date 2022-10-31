@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Nihat",
+      "surname": "Badalov",
+      "vezife": "Frontend Developer",
+      "avatar": "https://www.fakepersongenerator.com/Face/male/male1084599248017.jpg",
+      "maas": "2000",
+      "maas_valyuta": "$",
+      "experience": "Junior",
+      "id": 1
+    },
+    {
+      "name": "Farid",
+      "surname": "Abbasov",
+      "vezife": "Full Stack Developer",
+      "avatar": "https://www.fakepersongenerator.com/Face/male/male1085194268372.jpg",
+      "maas": "4000",
+      "maas_valyuta": "$",
+      "experience": "Middle",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Brenda",
+      "surname": "Moniz",
+      "vezife": "Backend Developer",
+      "avatar": "https://www.fakepersongenerator.com/Face/female/female20171026068348023.jpg",
+      "maas": "3500",
+      "maas_valyuta": "$",
+      "experience": "Middle"
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "surname": "Lowery",
+      "vezife": "UI/UX Designer",
+      "avatar": "https://www.fakepersongenerator.com/Face/male/male1084327170380.jpg",
+      "maas": "2500",
+      "maas_valyuta": "$",
+      "experience": "Middle"
+    },
+    {
+      "name": "Veronique ",
+      "surname": "Olson",
+      "vezife": "Security Guard",
+      "avatar": "https://www.fakepersongenerator.com/Face/female/female20161024969449463.jpg",
+      "maas": "1400",
+      "maas_valyuta": "$",
+      "experience": "Junior",
+      "id": 5
+    },
+    {
+      "name": "Leslie",
+      "surname": "Horace",
+      "vezife": "Speech-Language Pathology Assistant",
+      "avatar": "https://www.fakepersongenerator.com/Face/female/female201410239383418.jpg",
+      "maas": "4200",
+      "maas_valyuta": "$",
+      "experience": "Middle",
+      "id": 6
+    }
+  ]
+}
